@@ -109,9 +109,6 @@ class MainActivity : AppCompatActivity() {
             computer == 2 -> computer_textView.text = "布"
 
 
-
-
-
         }
 
 
